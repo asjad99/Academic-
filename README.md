@@ -1,6 +1,6 @@
-#Project Description
+# Project Description
 
-##Artifact Removal
+## Artifact Removal
 
 DCT compression methods can introduce visible
 artifacts at block boundaries of images. In this project we
@@ -14,7 +14,7 @@ of neighbouring blocks. Experiments show that the
 algorithm can significantly reduce the visible blockiness
 artifacts from the given images.
 
-##Image Segmentation 
+## Image Segmentation 
 
 The aim of our project is to create an algorithm to extract
 a pedestrian path from the rest of the image. The target is
