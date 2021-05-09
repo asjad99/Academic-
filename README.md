@@ -33,3 +33,8 @@ shown promising results although there is some room for
 improvement. The quality of segmentation can be
 improved by various techniques and will automatically
 improve the detail in our output images as well.
+
+
+### Paper: 
+
+See Paper for more details: https://github.com/asjad99/Image-Processing/blob/master/Paper.pdf
