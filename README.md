@@ -1,3 +1,7 @@
+
+### About: 
+Automated Removal of Image Compression Artifacts Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects. 
+
 # Project Description
 
 ## Artifact Removal
@@ -13,6 +17,8 @@ modification of pixel values based on weighted average
 of neighbouring blocks. Experiments show that the
 algorithm can significantly reduce the visible blockiness
 artifacts from the given images.
+
+
 
 ## Image Segmentation 
 
